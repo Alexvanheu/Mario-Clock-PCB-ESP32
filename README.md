@@ -1,4 +1,4 @@
-# Mario-Clock-PCB-ESP32
+# PCB By Alexvanheu for Jntha's project
 
 This is a PCB project able to drive a RGB Led Matrix compatible with [Mario Clock/Clockwise](https://clockwise.page/) 
 
